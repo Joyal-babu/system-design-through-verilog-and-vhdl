@@ -1,5 +1,12 @@
 >TYPES OF VERILOG MODELLING
-<h1>GATE LEVEL</h1>
+<h1>1.GATE LEVEL</h1>
+
+- Switch/transistor/structural level
+- Low level of modelling 
+- Complete circuitry of the circuit in terms of logic gates, transistors
+- Interconnection of simple components
+- Optimized design 
+- For complex systems these modelling is difficult
 
 
 

@@ -1,5 +1,5 @@
 >TYPES OF VERILOG MODELLING
-<h1>1.GATE LEVEL</h1>
+<h1>1.GATE LEVEL MODELLING</h1>
 
 - Switch/transistor/structural level
 - Low level of modelling 
@@ -8,7 +8,13 @@
 - Optimized design 
 - For complex systems these modelling is difficult
 
+<h1>2.DATAFLOW MODELLING </h1>
 
+- Medium level of modelling 
+- We have some details but not GATE level
+- Specifies transfer data between the registers
+- Some structural information is available (RTL)
+- Sometimes similar to behavioural modelling
 
 
 

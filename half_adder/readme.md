@@ -16,7 +16,16 @@
 - Some structural information is available (RTL)
 - Sometimes similar to behavioural modelling
 
+<h1>3.BEHAVIOURAL MODELLING </h1>
 
+- High level of modelling
+- Procedural code, similar to C programming language
+- Little structural details
+- Not define what's inside(gates)
+
+>here half adder is modelled using gate level, dataflow and behavioural style of modelling.
+
+>HALF ADDER
 
 
 

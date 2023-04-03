@@ -1,4 +1,4 @@
-Implementing Ripple carry adder by instantiating full adders.
+<h1>Implementing Ripple carry adder by instantiating full adders.</h1>
 
 >'n' bit RCA require 'n' full adders
 

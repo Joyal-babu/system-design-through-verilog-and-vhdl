@@ -6,6 +6,7 @@
 *  carry = Carry1 + Carry2          ( Carry1 - carry of first half adder,Carry2 - carry of second half adder ).
 
 
+![full adder](https://user-images.githubusercontent.com/123290522/229569538-02e0ccbc-6c24-4a70-aea1-77d3cc04ce7b.png)
 
 
-![full_adder](https://user-images.githubusercontent.com/123290522/229335090-6f97f399-244b-4ba6-9d3c-eb36cfaf26b1.jpg)
+

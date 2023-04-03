@@ -2,7 +2,8 @@
 
 module RCA_4bit ( sum1, A, B );
   
-  output [4:0]sum1;
+  output [3:0]sum1;
+  output cout;
   input  [3:0]A;
   input  [3:0]B;
 
@@ -14,7 +15,7 @@ module RCA_4bit ( sum1, A, B );
   FA fa1 ( sum1[0], c1, A[0], B[0], cin ); //instantiating full adders
   FA fa2 ( sum1[1], c2, A[1], B[1], c1  );
   FA fa3 ( sum1[2], c3, A[2], B[2], c2  );
-  FA fa4 ( sum1[3], sum1[4], A[3], B[3], c3 );
+  FA fa4 ( sum1[3], cout, A[3], B[3], c3 );
   
 endmodule
 

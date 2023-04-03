@@ -37,7 +37,8 @@
 
 
 
+![half adder](https://user-images.githubusercontent.com/123290522/229544554-aca1670d-9d66-40cd-b6b5-a3e4aa5162aa.jpeg)
 
-![half_adder](https://user-images.githubusercontent.com/123290522/229304180-0906f308-f8ef-47ed-afbb-0cf2b8341e71.jpeg)
+
 
 

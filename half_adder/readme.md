@@ -31,6 +31,6 @@
 
 >WAVEFORM
 
-![waveform](https://user-images.githubusercontent.com/123290522/230112249-69b54703-7148-4b0c-96c0-a30b22ebcfca.png)
+
 
 

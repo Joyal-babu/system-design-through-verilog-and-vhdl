@@ -27,18 +27,10 @@
 
 >HALF ADDER
 
-
-
-
-
-
-
-
-
-
-
 ![half adder](https://user-images.githubusercontent.com/123290522/229544554-aca1670d-9d66-40cd-b6b5-a3e4aa5162aa.jpeg)
 
+>WAVEFORM
 
+![waveform](https://user-images.githubusercontent.com/123290522/230112249-69b54703-7148-4b0c-96c0-a30b22ebcfca.png)
 
 

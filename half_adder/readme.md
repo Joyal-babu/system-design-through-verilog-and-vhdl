@@ -32,5 +32,8 @@
 >WAVEFORM
 
 
+![waveform](https://user-images.githubusercontent.com/123290522/230114445-1009a3de-c98a-45da-9252-97853217c442.png)
+
+
 
 

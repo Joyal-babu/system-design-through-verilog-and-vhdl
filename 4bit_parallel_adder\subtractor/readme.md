@@ -1,35 +1,8 @@
-Binary substraction can be done using ADDERS
 
-* 1'S COMPLIMENT METHOD
-* 2'S COMPLIMENT METHOD
-
-### 1'S COMPLIMENT METHOD
-
-   Keep the first binary digit as it is and ADD the 1's compliment of the other binary digit.
-		
-		
-#### END AROUND CARRY
-
-   * If EAC = 1 -> Then the result is POSITIVE - TO get the final result ADD the EAC to LSB of summation result.
-   * If EAC = 0 -> Then the result is NEGATIVE - To get the final result take the 1'S COMPLIMENT of summation result.
-
-
-### 2'S COMPLIMENT METHOD
-
-   Keep the first binary digit as it is and ADD the 2's compliment of the other binary digit.
-		
-		
-#### END AROUND CARRY
-
-   * If EAC = 1 -> Then the result is POSITIVE - TO get the final result just IGNORE the EAC of summation result.
-   * If EAC = 0 -> Then the result is NEGATIVE - To get the final result take the 2'S COMPLIMENT of summation result.
-
-
-   >Most of the processors use 2'S COMPLIMENT type of substraction,if any intermediate overflows occurs we can simply neglect them.
    
 	 
 	 
-In these circuit,ie parrallel adder/substractor uses 2's COMPLIMENT method for substraction.A control signal "M" is used for distinguish Addition and Substraction operation.
+In these circuit,ie parrallel adder/substractor uses 2's COMPLIMENT method  for substraction.A control signal "M" is used for distinguish Addition and Substraction operation.
 
   M=0 -> ADDITION
   
@@ -39,7 +12,7 @@ When M=0, the output of 4 XOR Gates (X1,X2,X3,X4) will be same as the input to t
 
 When M=1, the output of 4 XOR Gates (X1,X2,X3,X4) will be same as the 1'S COMPLIMENT of the input to them, ie the second operand (B1).we then ADD 1(M) with the LSB.This will give as the 2'S COMPLIMENT.
 
-###Conditions for EAC
+### Conditions for EAC
 
 1.If EAC=1 after addition then this EAC is transferred to the lower RCA stage MSB (Sum2[4],The final result will be 5 bit).
 
@@ -52,7 +25,7 @@ This conditions are achieved using 8 XOR gates(X1-X8),2 NOT gates(N1,N2) and 2 A
 The second RCA stage is actually used to find the 2's compliment if the result is negative, with one of its inputs always 0(G).
 
 
-***NB
+*** NB
   if one of the input to a 2 input XOR gate is 0, then the output will be the second input.
 	if one of the input to a 2 input XOR gate is 1, then the output will be the compliment of the second input.
 

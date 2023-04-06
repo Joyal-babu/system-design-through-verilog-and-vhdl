@@ -33,5 +33,9 @@
    * If EAC = 0 -> Then the result is NEGATIVE - To get the final result take the 2'S COMPLIMENT of summation result.
 
 
-   ** Most of the processors use 2'S COMPLIMENT type of subtraction, if any intermediate overflows      occurs we can simply neglect them.
+   * Most of the processors use 2'S COMPLIMENT type of subtraction, if any intermediate overflows occurs we can simply neglect them.
+
+>WAVEFORM
+
+![waveform](https://user-images.githubusercontent.com/123290522/230449524-e31f81f9-8ba2-4c8b-8088-2ec33724ba53.png)
 

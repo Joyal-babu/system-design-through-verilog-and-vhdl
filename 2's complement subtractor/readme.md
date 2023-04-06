@@ -39,6 +39,6 @@
 
 ![waveform](https://user-images.githubusercontent.com/123290522/230449524-e31f81f9-8ba2-4c8b-8088-2ec33724ba53.png)
 
-'cout1' is the EAC 
- cout1 = 1 => result is POSITIVE
- cout1 = 0 => result is NEGATIVE
+  'cout1' is the EAC 
+  cout1 = 1 => result is POSITIVE
+  cout1 = 0 => result is NEGATIVE

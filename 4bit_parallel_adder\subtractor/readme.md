@@ -39,7 +39,7 @@ When M=0, the output of 4 XOR Gates (X1,X2,X3,X4) will be same as the input to t
 
 When M=1, the output of 4 XOR Gates (X1,X2,X3,X4) will be same as the 1'S COMPLIMENT of the input to them, ie the second operand (B1).we then ADD 1(M) with the LSB.This will give as the 2'S COMPLIMENT.
 
-#Conditions for EAC
+###Conditions for EAC
 
 1.If EAC=1 after addition then this EAC is transferred to the lower RCA stage MSB (Sum2[4],The final result will be 5 bit).
 

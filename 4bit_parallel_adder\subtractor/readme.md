@@ -1,7 +1,3 @@
-
-   
-	 
-	 
 In these circuit,ie parrallel adder/substractor uses 2's COMPLIMENT method  for substraction.A control signal "M" is used for distinguish Addition and Substraction operation.
 
   M=0 -> ADDITION
@@ -25,7 +21,5 @@ This conditions are achieved using 8 XOR gates(X1-X8),2 NOT gates(N1,N2) and 2 A
 The second RCA stage is actually used to find the 2's compliment if the result is negative, with one of its inputs always 0(G).
 
 
-*** NB
-  if one of the input to a 2 input XOR gate is 0, then the output will be the second input.
-	if one of the input to a 2 input XOR gate is 1, then the output will be the compliment of the second input.
+
 

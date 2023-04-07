@@ -44,10 +44,7 @@ module RCA_4bit ( sum1, A, B, cin );
   input  [3:0]B;
   input cin;
   
-  
-  
   wire c1, c2, c3; //internal connections, defined them as wires 
-  
   
   FA fa1 ( sum1[0], c1, A[0], B[0], cin ); //instantiating full adders
   FA fa2 ( sum1[1], c2, A[1], B[1], c1  );

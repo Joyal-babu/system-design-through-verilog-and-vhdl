@@ -4,7 +4,8 @@
   
    if one of the input to a 2 input XOR gate is 1, then the output will be the compliment of the second input.
 
-![xor](https://user-images.githubusercontent.com/123290522/230448559-ae350860-267f-48e9-a6aa-0cb7a25542dc.jpeg)
+![xor](https://user-images.githubusercontent.com/123290522/230552909-37d63b4f-c5ff-474c-83f7-b744d4d1df3a.png)
+
 
 ## Binary subtraction can be done using ADDERS
 

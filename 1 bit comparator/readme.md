@@ -16,6 +16,11 @@ A=a0,  B=b0.
 	2.A>B, the only condition is a0=1 and b0=0. Hence G=a0 & b0_bar.
 	3.A<B, the only condition is a0=0 and b0=1. Hence L=a0_bar & b0.
 
+> 1 BIT COMPARATOR
+
+![1 bit comparator](https://user-images.githubusercontent.com/123290522/231233108-cebeeb9d-8746-42c0-a453-41ca2de147ab.jpeg)
+
+
 
 # XNOR - EQUALITY DETECTOR
   If 2 input to the XNOR gate are equal then output = 1.

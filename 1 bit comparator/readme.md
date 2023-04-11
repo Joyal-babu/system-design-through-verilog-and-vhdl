@@ -1,4 +1,6 @@
 comparator is a logical circuit which compares the two numbers and the outcome of this comparator can be 
+
+
    1.EQUAL
    2.GREATER
    3.SMALLER

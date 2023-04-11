@@ -2,39 +2,39 @@
 
    if one of the input to a 2 input XOR gate is 0, then the output will be the second input.
   
-   if one of the input to a 2 input XOR gate is 1, then the output will be the compliment of the second input.
+   if one of the input to a 2 input XOR gate is 1, then the output will be the complement of the second input.
 
 ![xor](https://user-images.githubusercontent.com/123290522/230552909-37d63b4f-c5ff-474c-83f7-b744d4d1df3a.png)
 
 
 ## Binary subtraction can be done using ADDERS
 
-* 1'S COMPLIMENT METHOD
-* 2'S COMPLIMENT METHOD
+* 1'S COMPLEMENT METHOD
+* 2'S COMPLEMENT METHOD
 
-### 1'S COMPLIMENT METHOD
+### 1'S COMPLEMENT METHOD
 
-   Keep the first binary digit as it is and ADD the 1's compliment of the other binary digit.
+   Keep the first binary digit as it is and ADD the 1's complement of the other binary digit.
 		
 		
 #### END AROUND CARRY
 
    * If EAC = 1 -> Then the result is POSITIVE - TO get the final result ADD the EAC to LSB of summation result.
-   * If EAC = 0 -> Then the result is NEGATIVE - To get the final result take the 1'S COMPLIMENT of summation result.
+   * If EAC = 0 -> Then the result is NEGATIVE - To get the final result take the 1'S COMPLEMENT of summation result.
 
 
-### 2'S COMPLIMENT METHOD
+### 2'S COMPLEMENT METHOD
 
-   Keep the first binary digit as it is and ADD the 2's compliment of the other binary digit.
+   Keep the first binary digit as it is and ADD the 2's complement of the other binary digit.
 		
 		
 #### END AROUND CARRY
 
    * If EAC = 1 -> Then the result is POSITIVE - TO get the final result just IGNORE the EAC of summation result.
-   * If EAC = 0 -> Then the result is NEGATIVE - To get the final result take the 2'S COMPLIMENT of summation result.
+   * If EAC = 0 -> Then the result is NEGATIVE - To get the final result take the 2'S COMPLEMENT of summation result.
 
 
-   * Most of the processors use 2'S COMPLIMENT type of subtraction, if any intermediate overflows occurs we can simply neglect them.
+   * Most of the processors use 2'S COMPLEMENT type of subtraction, if any intermediate overflows occurs we can simply neglect them.
 
 >2's COMPLEMENT SUBTRACTOR
 

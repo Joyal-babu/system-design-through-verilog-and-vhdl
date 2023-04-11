@@ -1,3 +1,4 @@
+
 module comp_1bit( G, L, E, A, B );
   output G,L,E;
   input A,B;

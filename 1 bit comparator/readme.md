@@ -2,7 +2,9 @@ comparator is a logical circuit which compares the two numbers and the outcome o
 
 
    1.EQUAL
+   
    2.GREATER
+   
    3.SMALLER
 
 The above design takes two one bit inputs and compare them.

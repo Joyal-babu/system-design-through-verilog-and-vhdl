@@ -25,6 +25,10 @@ A=a0,  B=b0.
 ![1 bit comparator](https://user-images.githubusercontent.com/123290522/231233108-cebeeb9d-8746-42c0-a453-41ca2de147ab.jpeg)
 
 
+>WAVEFORM
+
+![waveform](https://user-images.githubusercontent.com/123290522/231234172-616e404b-1548-4638-a829-7329cc90bf87.png)
+
 
 # XNOR - EQUALITY DETECTOR
   If 2 input to the XNOR gate are equal then output = 1.

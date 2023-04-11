@@ -15,3 +15,6 @@ A=a0,  B=b0.
 
 # XNOR - EQUALITY DETECTOR
   If 2 input to the XNOR gate are equal then output = 1.
+  
+  
+![xnor](https://user-images.githubusercontent.com/123290522/231228752-c76b6847-098f-4f6e-8953-8f31314fd253.jpeg)

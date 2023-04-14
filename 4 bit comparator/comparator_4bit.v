@@ -7,10 +7,10 @@ module comp_4bit( G2,L2,E2,P,Q );
   
   wire [3:0]e,g,l;
   
-  comp_1bit C1 ( g[0],l[0],e[0],P[0],Q[0] );//instantiating 1bit comp.
-  comp_1bit C2 ( g[1],l[1],e[1],P[1],Q[1] );
-  comp_1bit C3 ( g[2],l[2],e[2],P[2],Q[2] );
-  comp_1bit C4 ( g[3],l[3],e[3],P[3],Q[3] );
+  comp_1bit C0 ( g[0],l[0],e[0],P[0],Q[0] );//instantiating 1bit comp.
+  comp_1bit C1 ( g[1],l[1],e[1],P[1],Q[1] );
+  comp_1bit C2 ( g[2],l[2],e[2],P[2],Q[2] );
+  comp_1bit C3 ( g[3],l[3],e[3],P[3],Q[3] );
   
  assign E2=e[0]&e[1]&e[2]&e[3];
  assign G2=g[3]|(e[3]&g[2])|(e[3]&e[2]&g[1])|(e[3]&e[2]&e[1]&g[0]);

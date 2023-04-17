@@ -5,7 +5,7 @@ A decoder is a logic circuit that accepts a set of inputs that represents a bina
 
 One of these outputs will be HIGH based on the combination of the inputs present, when the decoder is enabled. 
 
-Inorder to construct larger memories / decoders from smaller memories / decoders we require decoders with ENABLE signal.
+Inorder to construct larger memories / decoders from smaller  decoders we require decoders with ENABLE signal.
 
 > 2x4 DECODER ( WITH ENABLE )
 

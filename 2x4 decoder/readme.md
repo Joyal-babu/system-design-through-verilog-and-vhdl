@@ -10,7 +10,7 @@ Inorder to construct larger memories / decoders from smaller  decoders we requir
 > 2x4 DECODER ( WITH ENABLE )
 
 
-![2x4 decoder](https://user-images.githubusercontent.com/123290522/232494107-17ffdccb-c7ad-496f-aebb-5e5ad23bdde0.jpeg)
+![2x4 decoder](https://user-images.githubusercontent.com/123290522/232865201-9f59b0c3-55b4-4600-a376-b342ee5c38d3.jpeg)
 
 > 2x4 DECODER ( WITHOUT ENABLE )
 

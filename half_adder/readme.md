@@ -23,7 +23,7 @@
 - Little structural details
 - Not define what's inside(gates)
 
->here half adder is modelled using gate level, dataflow and behavioural style of modelling.
+<h1>here half adder is modelled using gate level, dataflow and behavioural style of modelling.</h1>
 
 >TRUTH TABLE
 

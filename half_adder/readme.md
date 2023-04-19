@@ -28,8 +28,9 @@
 >TRUTH TABLE
 
 
-![half adder TT](https://user-images.githubusercontent.com/123290522/233148692-e23c8197-ad05-4f2c-9628-eb615544e539.jpg)
 
+
+![half adder TT](https://user-images.githubusercontent.com/123290522/233149247-eb537b14-1a4a-45db-9e9d-e0fb0460b00b.jpg)
 
 
 >HALF ADDER

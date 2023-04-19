@@ -25,6 +25,13 @@
 
 >here half adder is modelled using gate level, dataflow and behavioural style of modelling.
 
+>TRUTH TABLE
+
+
+![half adder TT](https://user-images.githubusercontent.com/123290522/233148692-e23c8197-ad05-4f2c-9628-eb615544e539.jpg)
+
+
+
 >HALF ADDER
 
 ![half adder](https://user-images.githubusercontent.com/123290522/229544554-aca1670d-9d66-40cd-b6b5-a3e4aa5162aa.jpeg)

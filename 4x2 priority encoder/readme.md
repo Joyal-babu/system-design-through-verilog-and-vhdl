@@ -14,3 +14,17 @@ Among the four inputs 'x3' got the highest priority and 'x0' got the lowest prio
 
 And we assign don't care values to the output whenever none of the inputs are HIGH.
 
+>TRUTH TABLE
+
+
+
+![4x2 priority encoder TT](https://user-images.githubusercontent.com/123290522/233391555-723c4295-eb6f-4a3f-aa0c-610f98997852.jpg)
+
+
+>4X2 PRIORITY ENCODER
+
+![4x2 priority encoder (1)](https://user-images.githubusercontent.com/123290522/233391637-1c8df245-cfb1-4ef2-b2ab-150e1e320fe5.jpeg)
+
+>WAVEFORM
+
+![waveform](https://user-images.githubusercontent.com/123290522/233391697-1add9cd5-777e-42b2-9d8d-2d84145d0174.png)

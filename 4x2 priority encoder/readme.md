@@ -1,7 +1,7 @@
 One of the main disadvantages of standard digital encoders is that they can generate the wrong output code when there is more than one input present at logic level “1”.
 Another disadvantage is that it is not configured to give an output when none of the inputs are logic "1".
 
-To overcome these disadvantages we use ### PRIORITY ENCODERS.
+To overcome these disadvantages we use PRIORITY ENCODERS.
 
 4x2 priority encoder got 4 inputs and 2 outputs 
 

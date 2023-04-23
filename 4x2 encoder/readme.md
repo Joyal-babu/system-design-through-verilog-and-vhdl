@@ -6,6 +6,12 @@ It will produce a binary code equivalent to the input,which is active HIGH( At a
 
 -> A 4x2 encoder contains 4 inputs and 2 outputs
 
+>TRUTH TABLE 
+
+![4x2 encoder](https://user-images.githubusercontent.com/123290522/233836348-17fbb722-053c-4c39-b5ed-e3f452c4a511.jpg)
+
+
+
 >4x2 ENCODER
 
 

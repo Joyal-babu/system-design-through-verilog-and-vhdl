@@ -12,7 +12,12 @@ Only one of the input is connected to the output.
 
 > 2x1 MUX (BASIC GATES)
 
-![2X1 mux (basic gates)](https://user-images.githubusercontent.com/123290522/233825336-bd3d3c49-9e5e-4275-ae30-16e35db8fd84.jpeg)
+![2x1 mux ( basic gates )](https://user-images.githubusercontent.com/123290522/233826042-f93ce31a-6624-4595-8489-d453473b8f5e.jpeg)
+
+> 2x1 MUX (BUFFERS)
+
+![2x1 mux ( buffers )](https://user-images.githubusercontent.com/123290522/233826054-ab4e1ac1-ae06-447a-b073-f489b02ec893.jpeg)
+
 
 
 >WAVEFORM

@@ -10,6 +10,11 @@ Only one of the input is connected to the output.
 
 ![2x1 mux](https://user-images.githubusercontent.com/123290522/230727946-4c33e988-61b1-4101-b6ab-d6610b057992.jpeg)
 
+> 2x1 MUX (BASIC GATES)
+
+![2X1 mux (basic gates)](https://user-images.githubusercontent.com/123290522/233825336-bd3d3c49-9e5e-4275-ae30-16e35db8fd84.jpeg)
+
+
 >WAVEFORM
 
 ![waveform](https://user-images.githubusercontent.com/123290522/230728298-f0c5a0a0-ccbb-4246-9cc2-cc0a346027a4.png)

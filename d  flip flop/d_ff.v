@@ -1,10 +1,16 @@
-module dff( output reg q, input d,clk,reset );
+module dff( output reg q,output wire qbar, input d,clk,reset );
+  
+  assign qbar = ~q;
   
   always @ ( posedge clk )
   begin
       if(reset)
-        q <= 0;
+      begin
+        q<=0;
+      end
       else
-        q <= d;
+      begin
+        q<=d;
+      end
   end
 endmodule

@@ -10,7 +10,7 @@ There are two types of resets used in hardware designs. They are synchronous and
 Synchronous reset means reset is sampled with respect to clock. In other words, when reset is enabled, it will not be effective till the next active clock edge.
 To get the effect of reset, reset should be wide enough to be captured by the next posedge of clk.
  
-     In the above example, Q1 will be changed only with the posedge of clk.
+     In the above example, q1 will be changed only with the posedge of clk.
 
 <H4>ADVANTAGES</H4>
 
@@ -28,7 +28,9 @@ To get the effect of reset, reset should be wide enough to be captured by the ne
 <h2>ASYNCHRONOUS RESET</h2>
 
 In asynchronous reset, reset is sampled independent of clk. That means, when reset is enabled it will be effective immediately and will not check or wait for the clock edges.
-
+ 
+       In the above example, q2 is following an asynchronous reset.
+       
 <H4>ADVANTAGES</H4>
 
   1. Reset gets the highest priority.

@@ -1,0 +1,23 @@
+<h2>RESET</h2>
+
+Reset is a signal that is used to initialize the hardware, as the design does not have a way to do self initialization. That means, reset forces the design to a known state.
+In simulation, usually it is activated at the beginning, but in real hardware, reset is usually activated to power up the circuits.
+
+There are two types of resets used in hardware designs. They are synchronous and asynchronous resets.
+
+<H2>SYNCHRONOUS RESET</H2>
+
+Synchronous reset means reset is sampled with respect to clock. In other words, when reset is enabled, it will not be effective till the next active clock edge.
+To get the effect of reset, reset should be wide enough to be captured by the next posedge of clk.
+ 
+     In the above example, Q1 will be changed only with the posedge of clk.
+
+<H4>ADVANTAGES</H4>
+1.Gives a completely synchronous circuit.
+2.Provides filtering for the reset signal, So circuit will not be affected by glitches.
+
+<H4>DISADVANTAGES</H4>
+1.Reset needs to be stretched, if it is not long enough to be seen at the active clock edge.
+2.Requires presence of clock to reset the circuit.
+
+

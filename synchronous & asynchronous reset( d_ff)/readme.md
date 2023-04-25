@@ -22,4 +22,22 @@ To get the effect of reset, reset should be wide enough to be captured by the ne
 
 2.Requires presence of clock to reset the circuit.
 
+3. It is slow.
+
+4. Synthesis will not be able to easily differentiate reset from other signals. So this has to be taken care while doing synthesis. Otherwise it may lead to timing issues.
+
+
+<h2>ASYNCHRONOUS RESET</h2>
+
+In asynchronous reset, reset is sampled independent of clk. That means, when reset is enabled it will be effective immediately and will not check or wait for the clock edges.
+
+<H4>ADVANTAGES</H4>
+
+  1. Reset gets the highest priority.
+  2. It is fast.
+  3. Does not require presence of clock to reset the circuit.
+
+
+
+
 

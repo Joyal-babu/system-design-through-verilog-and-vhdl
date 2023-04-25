@@ -13,10 +13,12 @@ To get the effect of reset, reset should be wide enough to be captured by the ne
      In the above example, Q1 will be changed only with the posedge of clk.
 
 <H4>ADVANTAGES</H4>
+
   1.Gives a completely synchronous circuit.
   2.Provides filtering for the reset signal, So circuit will not be affected by glitches.
 
 <H4>DISADVANTAGES</H4>
+
   1.Reset needs to be stretched, if it is not long enough to be seen at the active clock edge.
   2.Requires presence of clock to reset the circuit.
   3.It is slow.

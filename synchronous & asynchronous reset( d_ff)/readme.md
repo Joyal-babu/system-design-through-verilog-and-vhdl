@@ -35,6 +35,18 @@ In asynchronous reset, reset is sampled independent of clk. That means, when res
   2. It is fast.
   3. Does not require presence of clock to reset the circuit.
 
+<H4>DISADVANTAGES</H4>
+
+  1. Reset line is sensitive to glitches.
+  2. May have metastability issues
+
+>WAVEFORM
+
+![waveform](https://user-images.githubusercontent.com/123290522/234358146-f8523c8b-e428-41d5-8b97-c4e946339454.png)
+
+
+
+
 
 
 

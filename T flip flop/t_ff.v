@@ -6,7 +6,7 @@ module t_ff(
 );
   
   wire dt;
-  assign dt=t^q;
+  assign dt=t^q;         // d = q XOR t
   
   dff d1(q,dt,clk,reset);//instantiating d flip-flop
   

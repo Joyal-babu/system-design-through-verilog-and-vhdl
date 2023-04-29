@@ -23,9 +23,8 @@ The second RCA stage is actually used to find the 2's compliment if the result i
 >PARALLEL ADDER & SUBTRACTOR
 
 ![parallel adder_subtractor (1)](https://user-images.githubusercontent.com/123290522/230564344-57b4910e-b1ff-4fb3-b5c7-4ba35b730892.jpeg)
-
+----
 >WAVEFORM
-
 
 ![parallel adder_subtractor ](https://user-images.githubusercontent.com/123290522/230564414-900c1895-978a-4c38-a92d-f6328f6e8b62.jpeg)
 

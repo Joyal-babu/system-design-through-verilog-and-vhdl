@@ -5,9 +5,11 @@ if number of bits is increased then we have to use RCA 's.
 
 >2x2 MULTIPLIER
 
-![2x2 multiplier](https://user-images.githubusercontent.com/123290522/230730853-b8d5071c-5d91-484d-9273-7b2896cd3c89.jpeg)
+![2x2 multiplier](https://user-images.githubusercontent.com/123290522/235298525-744e0ab0-09fa-43ce-ae6e-d4ff1db03336.jpeg)
 
+>>[CLICK HERE](https://circuitverse.org/simulator/edit/2x2-multiplier-b4aff53e-f409-4572-9ab6-a99a3cb9fb6f) to launch the circuit.
+
+------
 >WAVEFORM
-
 
 ![2x2 multiplier](https://user-images.githubusercontent.com/123290522/230730865-1766b783-69d7-41ad-b7a5-6f1587dfb44b.png)

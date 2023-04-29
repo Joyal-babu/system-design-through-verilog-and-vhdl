@@ -13,6 +13,7 @@ Take two 2 bit inputs and compare them to produce three outputs,only one output 
 >2 BIT COMPARATOR
 
 ![2 bit comparator](https://user-images.githubusercontent.com/123290522/231825181-5cf96a24-f2b6-4208-a84c-13914466d2f2.jpeg)
+>>[CLICK HERE](https://circuitverse.org/simulator/edit/2-bit-comparator-60e548cf-487b-49fc-839e-2aa87733ce24) to launch the circuit.
 
 
 >WAVEFORM

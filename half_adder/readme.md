@@ -37,10 +37,14 @@
 
 ![half adder](https://user-images.githubusercontent.com/123290522/229544554-aca1670d-9d66-40cd-b6b5-a3e4aa5162aa.jpeg)
 
+>> ### [CLICK HERE](https://circuitverse.org/simulator/edit/half-adder-533b05e0-06e0-43fd-948a-32c6fc0e3d51) to launch the circuit. 
+
 >WAVEFORM
 
 
 ![waveform](https://user-images.githubusercontent.com/123290522/230114445-1009a3de-c98a-45da-9252-97853217c442.png)
+
+
 
 
 

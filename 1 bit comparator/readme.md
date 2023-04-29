@@ -23,7 +23,7 @@ A=a0,  B=b0.
 > 1 BIT COMPARATOR
 
 ![1 bit comparator](https://user-images.githubusercontent.com/123290522/231233108-cebeeb9d-8746-42c0-a453-41ca2de147ab.jpeg)
-
+>>[CLICK HERE](https://circuitverse.org/simulator/edit/1-bit-comparator-ce862a8a-d25d-437b-a6ad-1ceb150bef04) to launch the circuit.
 
 >WAVEFORM
 

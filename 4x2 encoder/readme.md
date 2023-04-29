@@ -9,15 +9,13 @@ It will produce a binary code equivalent to the input,which is active HIGH( At a
 >TRUTH TABLE 
 
 ![4x2 encoder](https://user-images.githubusercontent.com/123290522/233836348-17fbb722-053c-4c39-b5ed-e3f452c4a511.jpg)
-
-
-
+------
 >4x2 ENCODER
 
-
 ![4x2 encoder](https://user-images.githubusercontent.com/123290522/233116557-51847261-6343-45e0-a8fa-ac82fde001c9.jpeg)
+>>[CLICK HERE](https://circuitverse.org/simulator/edit/4x2-encoder-436041f0-fafe-4df1-8256-1d2ac387b715) to launch the circuit.
 
-
+------
 >WAVEFORM
 
 ![waveform](https://user-images.githubusercontent.com/123290522/233116624-a772cdf0-3e07-4c46-84c2-4369bbcf3d9c.png)

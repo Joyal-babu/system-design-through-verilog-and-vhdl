@@ -10,8 +10,9 @@ m1 - number of outputs of lower order decoder
 >3x8 DECODER
 
 ![3x8 decoder](https://user-images.githubusercontent.com/123290522/232870009-5691e606-fc83-44fb-b7ff-360390f228ed.jpeg)
+>>[CLICK HERE](https://circuitverse.org/simulator/edit/3x8-decoder-6dd17956-b2a0-48c9-9e09-496a44fd1bc0) to launch the circuit.
 
-
+------
 >WAVEFORM
 
 

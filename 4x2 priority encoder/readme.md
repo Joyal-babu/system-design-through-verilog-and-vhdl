@@ -16,14 +16,14 @@ And we assign don't care values to the output whenever none of the inputs are HI
 
 >TRUTH TABLE
 
-
-
 ![4x2 priority encoder TT](https://user-images.githubusercontent.com/123290522/233391555-723c4295-eb6f-4a3f-aa0c-610f98997852.jpg)
 
-
+------
 >4X2 PRIORITY ENCODER
 
 ![4x2 priority encoder (1)](https://user-images.githubusercontent.com/123290522/233391637-1c8df245-cfb1-4ef2-b2ab-150e1e320fe5.jpeg)
+>> [CLICK HERE](https://circuitverse.org/simulator/edit/4x2-priority-encoder-6798ca46-193d-48ea-b1de-019b446fe15a) to launch the circuit.
+------
 
 >WAVEFORM
 

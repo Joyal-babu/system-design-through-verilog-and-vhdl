@@ -6,7 +6,7 @@ module comp_1bit_tb;
   
   initial 
     begin
-      $dumpfile("dum.vcd");
+      $dumpfile("dump.vcd");
       $dumpvars(1);
     end
   initial

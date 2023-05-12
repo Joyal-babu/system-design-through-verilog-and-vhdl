@@ -27,7 +27,7 @@ module mat_mul(
     for( i = 0;i < 2;i = i + 1 )
       for( j = 0;j < 2;j = j + 1)
         for( k = 0;k < 2;k = k + 1)
-          R1[i][j] = R1[i][j] + ( A1[i][k] * B1[k][j] )
+                R1[i][j] = R1[i][j] + ( A1[i][k] * B1[k][j] );
           
           R = { R1[0][0], R1[0][1], R1[1][0], R1[1][1] } ;
   end

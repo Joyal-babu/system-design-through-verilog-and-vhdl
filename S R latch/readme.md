@@ -13,3 +13,8 @@
 > SR LATCH [NOR]
 ![s r latch (nor)](https://github.com/Joyal-babu/system-design-through-verilog-nptel/assets/123290522/b4671d67-3fd6-4bf8-82df-5a173cf0a2ff)
 >>[CLICK HERE](https://circuitverse.org/simulator/edit/s-r-latch-nor-de9e9551-7939-40fa-a0f3-8fc31dcc76e1) to launch the circuit.
+
+>WAVEFORM
+
+
+![sr latch](https://github.com/Joyal-babu/system-design-through-verilog-nptel/assets/123290522/9ee46423-309e-4154-8eb8-c62c0c3bb772)

@@ -16,13 +16,13 @@ module sr_latch_tb;
   initial 
   begin
         S=1'b0; R=1'b0; E=1'b0;
-    #10 S=1'b0; R=1'b0; E=1'b1;
-    #10 S=1'b0; R=1'b1; E=1'b1;
-    #10 S=1'b1; R=1'b0; E=1'b1;
-    #10 S=1'b1; R=1'b1; E=1'b1;
-    #10 S=1'b1; R=1'b0; E=1'b0;
-    #10 S=1'b0; R=1'b1; E=1'b0;
+    #100 S=1'b0; R=1'b0; E=1'b1;
+    #100 S=1'b0; R=1'b1; E=1'b1;
+    #100 S=1'b1; R=1'b0; E=1'b1;
+    #100 S=1'b1; R=1'b1; E=1'b1;
+    #100 S=1'b1; R=1'b0; E=1'b0;
+    #100 S=1'b0; R=1'b1; E=1'b0;
     
-    #30 $finish;
+   // #30 $finish;
   end
 endmodule
